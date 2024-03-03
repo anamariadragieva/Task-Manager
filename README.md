@@ -2,6 +2,21 @@
 
 Welcome to the Task Management System! This Python project allows users to register, add tasks, view tasks, generate reports, and display statistics. It provides an organized way to manage tasks and user information.
 
+- [Installation](#installation)
+- [Usage](#usage)
+  - [User Registration](#user-registration)
+  - [Adding Tasks](#adding-tasks)
+  - [Viewing Tasks](#viewing-tasks)
+  - [Viewing Personal Tasks](#viewing-personal-tasks)
+  - [Generating Reports](#generating-reports-admin-only)
+  - [Displaying Statistics](#displaying-statistics-admin-only)
+  - [Exiting the Program](#exiting-the-program)
+- [Notes](#notes)
+- [Examples](#examples)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+
+  
 ## Installation
 
 1. Clone the repository:
