@@ -1,0 +1,9 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2024-02-29;2022-11-22;No
+hanna;clean;clean the kitchen;2025-01-01;2024-02-26;No
+hanna;finish capstone;finish the capstone project;2024-02-29;2024-02-26;No
+admin;go out;go to the park;2023-12-12;2024-02-26;Yes
+michaela;complete BYB5;complete the BYB5 task from the course;2024-04-12;2024-02-26;No
+admin;cook dinner;cook lasagna for dinner;2024-02-29;2024-02-28;Yes
+krisi;set up alexa;connect the new alexa;2024-03-29;2024-02-28;No
+admin;fix menu;make the menu better;2024-04-21;2024-02-28;No
+admin;push projecrt to GitHub;add this project to github - BYB5 Task 2;2024-03-03;2024-03-03;No

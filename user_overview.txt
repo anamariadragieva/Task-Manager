@@ -1,0 +1,77 @@
+Users Overview:
+
+Total number of users: 7
+Total number of tasks: 9
+
+--------------------------------------------------------------------------------
+
+Username: admin
+Password: password
+
+Total number of tasks assigned: 5
+Percentage of total tasks assigned: 55.56%
+Percentage of completed tasks: 40.00%
+Percentage of tasks remaining: 60.00%
+Percentage of overdue tasks: 40.00%
+--------------------------------------------------------------------------------
+
+Username: theombreone
+Password: fds
+
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of completed tasks: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 0.00%
+--------------------------------------------------------------------------------
+
+Username: d
+Password: d
+
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of completed tasks: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 0.00%
+--------------------------------------------------------------------------------
+
+Username: hanna
+Password: hanna
+
+Total number of tasks assigned: 2
+Percentage of total tasks assigned: 22.22%
+Percentage of completed tasks: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 50.00%
+--------------------------------------------------------------------------------
+
+Username: 
+Password: 
+
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of completed tasks: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 0.00%
+--------------------------------------------------------------------------------
+
+Username: michaela
+Password: 12345
+
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 11.11%
+Percentage of completed tasks: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 0.00%
+--------------------------------------------------------------------------------
+
+Username: krisi
+Password: 12345
+
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 11.11%
+Percentage of completed tasks: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 0.00%
+--------------------------------------------------------------------------------
+
